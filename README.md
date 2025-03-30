@@ -13,7 +13,3 @@
 <p align="left">✨ Sou iniciante no mundo TI<br>📚 Atualmente estou aprendendo Python e C<br>🎲 E estou muito empolgada para aprender cada vez mais!</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Gabriela-Bes/Gabriela-Bes/output/snake.svg" alt="Snake animation" />
-
-###
